@@ -5,7 +5,7 @@
     <groupId>org.kohsuke</groupId>
     <artifactId>pom</artifactId>
     <version>21</version>
-    <relativePath />
+    <relativePath/>
   </parent>
   <groupId>org.kohsuke.stapler</groupId>
   <artifactId>stapler-parent</artifactId>
@@ -154,7 +154,7 @@
                     <string>com.headius.invokebinder.*</string>
                   </ignoreClasses>
                 </enforceBytecodeVersion>
-                <requireUpperBoundDeps />
+                <requireUpperBoundDeps/>
               </rules>
             </configuration>
           </execution>
@@ -296,7 +296,7 @@
     <dependency>
       <groupId>org.kohsuke.metainf-services</groupId>
       <artifactId>metainf-services</artifactId>
-      <version>1.7</version>
+      <version>1.8</version>
     </dependency>
 
     <!-- test dependencies -->
